@@ -1342,6 +1342,7 @@ button:focus {
 }
 
 .tab img {
+    aspect-ratio: 4/3;
     width: 100%;
     display: block;
     position: relative;
