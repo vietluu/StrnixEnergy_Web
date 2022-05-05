@@ -18,29 +18,29 @@ $(document).ready(function() {
         $('body').removeClass('stop-scrolling');
         $('body').unbind('touchmove');
     })
+//ajax 
+    // $('.btnbox').click(function() {
+    //     var data = $('.third-body  input').serialize();
+    //     var s = $('.noti');
+    //     $.get("#", function(data) {
+    //         $('.third-body  input').val("");
+    //         s.show();
 
-    $('.btnbox').click(function() {
-        var data = $('.third-body  input').serialize();
-        var s = $('.noti');
-        $.get("test.html", function(data) {
-            $('.third-body  input').val("");
-            s.show();
+    //     });
+    //     return false;
+    // });
+    // $('.support button').click(function() {
+    //     var data = $('.support  input').serialize();
+    //     var s = $('.noti');
+    //     $.get("#", function(data) {
+    //         $('.support input').val("");
 
-        });
-        return false;
-    });
-    $('.support button').click(function() {
-        var data = $('.support  input').serialize();
-        var s = $('.noti');
-        $.get("test.html", function(data) {
-            $('.support input').val("");
+    //         $('.custom-select-box').prop('selectedIndex', 0);
+    //         $('.response').show();
 
-            $('.custom-select-box').prop('selectedIndex', 0);
-            $('.response').show();
-
-        });
-        return false;
-    });
+    //     });
+    //     return false;
+    // });
     $(".slidemain .owl-carousel").owlCarousel({
 
         items: 1,
