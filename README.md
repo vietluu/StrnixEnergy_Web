@@ -7,7 +7,7 @@
 * `jquery`
 * `owlcarousel`
 
-## Demo [link](https://vietluu.github.io/StmixEnergy_Web/) 
+## Demo [link](https://vietluu.github.io/StrnixEnergy_Web/)
 ![image](https://github.com/vietluu/StmixEnergy_Web/assets/74524082/09267cff-1bca-4c79-9da8-5969db2a36fd)
 ![image](https://github.com/vietluu/StmixEnergy_Web/assets/74524082/eba1058e-c2f1-4db5-8728-adad9bca2745)
 ![image](https://github.com/vietluu/StmixEnergy_Web/assets/74524082/5b14d577-e012-4e21-8eac-23b551bc98ba)
